@@ -30,3 +30,4 @@ Objetivos:
 Gestión de asistentes.
 Automatización de procesos.
 Experiencia de usuario optimizada.
+https://github.com/Demona50/Demona50-portfolio-/blob/main/Screenshot_20261127-153040~2.jpg
