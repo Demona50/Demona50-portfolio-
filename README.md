@@ -1,13 +1,10 @@
 
 <img width="3168" height="792" alt="image" src="https://github.com/user-attachments/assets/f2d185e2-e927-4846-9870-3d6b100e0b4d" />
+<img width="4032" height="1768" alt="image" src="https://github.com/user-attachments/assets/262b7dd4-133e-4faf-9f54-b6cc04138150" />
+
+<img width="4032" height="1200" alt="image" src="https://github.com/user-attachments/assets/174cd318-ac09-41ea-a780-90dd1a4b79a5" />
 
 
-👋 Hola, soy Ángeles Lorente
-Sobre mí
-Apasionada por la Inteligencia Artificial, el desarrollo no-code y el aprendizaje continuo.
-
-🚀 Proyectos Destacados
-Sistema de Gestión para Peluquería
 Aplicación web diseñada para la gestión de citas y servicios de peluquería.
 
 Características:
