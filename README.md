@@ -20,6 +20,7 @@ Accesible desde navegador.
 🔗 Vista previa:
 
 https://preview--tu-peluqueria-demo.lovable.app
+<img width="518" height="702" alt="image" src="https://github.com/user-attachments/assets/1708494b-ce14-4d90-b30f-4c7d20f034a4" />
 
 Próximas mejoras:
 
