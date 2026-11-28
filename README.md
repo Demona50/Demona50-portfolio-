@@ -1,4 +1,6 @@
-https://github.com/Demona50/Demona50-portfolio-/blob/main/banner-github.png
+Demona50/Demona50-portfolio-/
+
+banner-github.png
 👋 Hola, soy Ángeles Lorente
 Sobre mí
 Apasionada por la Inteligencia Artificial, el desarrollo no-code y el aprendizaje continuo.
